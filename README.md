@@ -15,3 +15,8 @@ Please review the [API Documentation](http://developers.nodecraft.com) for more 
 	$results = $api->servicesList();
 ?>
 ```
+
+Documentation
+----
+* [Services (Game Servers)](https://github.com/nodecraft/NodeCraft-API---PHP/wiki/Services-(Game-Servers))
+* [Co-Op Vault](https://github.com/nodecraft/NodeCraft-API---PHP/wiki/Co-Op-Vault)

@@ -1,7 +1,7 @@
 NodeCraft-API---PHP
 ===================
 
-PHP Library for the Official [NodeCraft API](http://developers.nodecraft.com).
+PHP Library for the Official [NodeCraft API](http://developers.nodecraft.com). This library requires PHP 5.4+.
 
 
 Code Example

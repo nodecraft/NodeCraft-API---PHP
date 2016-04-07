@@ -51,6 +51,12 @@
 		public function servicesStats($id){
 			return $this->request('GET', 'service/' . $this->param($id) . '/stats');
 		}
+		public function servicesLogs($id){
+			return $this->request('POST', 'service/' . $this->param($id) . '/logs');
+		}
+		public function servicesInputHistory($id){
+			return $this->request('POST', 'service/' . $this->param($id) . '/history');
+		}
 		public function servicesStart($id){
 			return $this->request('POST', 'service/' . $this->param($id) . '/start');
 		}
